@@ -22,6 +22,14 @@ A red, yellow, green color gradient is created using the matplotlib library.<br/
 
 The final results for Step 1 are shown below:
 ![image](https://user-images.githubusercontent.com/17696533/125238594-6ec08200-e2b5-11eb-87c5-02bc49c4c1e8.png)
+
+<br/> 
+(This result is more refined and coloring the depth based on specific distance thresholds)<br/>
+
+![image](https://user-images.githubusercontent.com/17696533/125337422-fab9c480-e31c-11eb-973c-75b44d7a2290.png)
+
+<br/>
+
 ![image](https://user-images.githubusercontent.com/17696533/125238892-e5f61600-e2b5-11eb-910d-9c7c4e637391.png)
 
 <br/>

@@ -19,8 +19,13 @@ A red, yellow, green color gradient is created using the matplotlib library.<br/
 
 ![image](https://user-images.githubusercontent.com/17696533/125328285-271c1380-e312-11eb-8a9a-b9763829fdaa.png)
 <br/>
+# 
+#### Lidar and Camera views<br/> 
+![image](https://user-images.githubusercontent.com/17696533/125382793-552a4380-e364-11eb-8fa3-cee996c6e18b.png)
+![image](https://user-images.githubusercontent.com/17696533/125382835-6bd09a80-e364-11eb-96da-811450afe0a8.png)
 
-The final results for Step 1 are shown below:
+#
+#### The final results for Step 1 are shown below:
 ![image](https://user-images.githubusercontent.com/17696533/125238594-6ec08200-e2b5-11eb-87c5-02bc49c4c1e8.png)
 
 <br/> 
